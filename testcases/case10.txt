@@ -1,0 +1,7 @@
+Nodes:
+1: (0,0)
+2: (1,0)
+Origin:
+1
+Destinations:
+2
